@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeightCare</string>
+    <string name="foodcategory">f_id</string>
+</resources>
